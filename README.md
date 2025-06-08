@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Max</h1>
 
 <p align="center">
-  <em>Data Science & GenAI enthusiast — MIT Sloan MBAn ’25</em><br>
+  <em>Data Science & GenAI enthusiast — Data Science Student @ MIT 🧑‍💻
   <a href="mailto:mknuth@mit.edu">Email</a> •
   <a href="https://www.linkedin.com/in/maximilianknuth/">LinkedIn</a> •
   <a href="https://maximilianknuth.github.io/">Portfolio</a>
@@ -10,11 +10,18 @@
 
 ---
 
-### 🚀 What I’m working on
-- 🧠 **Generative AI for data engineering** — building agentic systems that turn plain-language requests into production-ready data pipelines (see *Nasdaq* project below).
-- 🥘 **Multimodal recipe generation** — combining NLP & nutritional analytics to suggest personalised dishes from the ingredients you already have (see *CuisineCraft* below).
+### 👋 About Me
+I’m a Data Science graduate student at **MIT’s Operations Research Center**, where I apply advanced optimization, machine learning, and generative AI to real-world challenges in finance and tech.
+
+- **Nasdaq** — building autonomous agent systems that translate plain-language requests into production-ready data pipelines  
+- **MFS Investment Management** — crafting predictive-optimization models for client segmentation and revenue maximization  
+- **Visa** — modeling SMB performance and economic resilience with gradient boosting & spatial analytics  
+
+Previously, I drove data-driven strategy at **Mercedes-Benz** (risk analytics automation), **Simon-Kucher** (ML-based performance prediction), and **KPMG** (ERP process mining).  
+Technically fluent in **Python** (ML, NLP, optimization), **SQL**, **Julia/JuMP**, **Databricks**, and **MLflow**, with additional experience in causal inference, simulation-based optimization, and LLM-powered architectures.
 
 ---
+
 
 ### 🌟 Featured Projects
 
