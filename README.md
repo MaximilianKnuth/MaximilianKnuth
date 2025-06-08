@@ -5,7 +5,6 @@
   <em>Data Science & GenAI enthusiast — Data Science Student @ MIT 🧑‍💻
   <a href="mailto:mknuth@mit.edu">Email</a> •
   <a href="https://www.linkedin.com/in/maximilianknuth/">LinkedIn</a> •
-  <a href="https://maximilianknuth.github.io/">Portfolio</a>
 </p>
 
 ---
