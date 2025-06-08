@@ -1,96 +1,55 @@
-### Hi there 👋
+<!-- Profile README for Maximilian Knuth -->
+<h1 align="center">Hi there 👋, I'm Max</h1>
 
+<p align="center">
+  <em>Data Science & GenAI enthusiast — MIT Sloan MBAn ’25</em><br>
+  <a href="mailto:mknuth@mit.edu">Email</a> •
+  <a href="https://www.linkedin.com/in/maximilianknuth/">LinkedIn</a> •
+  <a href="https://maximilianknuth.github.io/">Portfolio</a>
+</p>
 
-I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+---
 
-- 🔭 I’m currently working on Node JS 
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on new business ideas.
-<!-- - 🤔 I’m looking for help with on new business ideas. -->
-- 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me:DM 📱 email-dj.jarout@gmail.com.
+### 🚀 What I’m working on
+- 🧠 **Generative AI for data engineering** — building agentic systems that turn plain-language requests into production-ready data pipelines (see *Nasdaq* project below).
+- 🥘 **Multimodal recipe generation** — combining NLP & nutritional analytics to suggest personalised dishes from the ingredients you already have (see *CuisineCraft* below).
 
-## 🤝 Connect with me:
+---
 
-<a href="https://www.linkedin.com/in/deepajarout/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+### 🌟 Featured Projects
 
-<a href="https://instagram.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+| Project | Tech | Highlights |
+|---------|------|-----------|
+| **GenAI Nasdaq – Smart Data Engineering Agents**<br><sup><a href="https://github.com/MaximilianKnuth/GenAI_Nasdaq">🔗 Repo</a></sup> | LangGraph · Python · RAG | • Enables **non-technical users** to define end-to-end data workflows via chat<br>• Scales data-product onboarding **+40 %**, unlocking **$6-8 M annual revenue** :contentReference[oaicite:0]{index=0} |
+| **CuisineCraft – Dynamic Recipe Generator**<br><sup><a href="https://github.com/MaximilianKnuth/CuisineCraft">🔗 Repo</a></sup> | Transformers · FAISS · RAG | • Retrieval-augmented generation tailors recipes to ingredients, diet & cuisine<br>• Achieves **88 % preference coverage** and **0.72 ingredient Jaccard** on test queries :contentReference[oaicite:1]{index=1} |
 
-<a href="https://www.facebook.com/deepajarout0"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="deepa Jarout| Facebook" width="35px"/></a>
+---
 
-<a href="https://www.youtube.com/channel/UCD1TmriSJKAZQPmWsqb8dnQ"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296521_play_video_vlog_youtube_youtube logo_icon.png" alt="deepa Jarout| Youtube" width="35px"/></a>
+### 🛠️ Tech Toolbox
+<div align="center">
 
-<a href="https://twitter.com/deepajarout"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
+|  |  |
+|--|--|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) |
+| **ML / Data** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-EC0000?style=flat) ![FAISS](https://img.shields.io/badge/-FAISS-009688?style=flat) |
+| **MLOps / DevOps** | ![MLflow](https://img.shields.io/badge/-MLflow-0094f0?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Databricks](https://img.shields.io/badge/-Databricks-EF3A25?style=flat&logo=databricks&logoColor=white) |
+| **Experimentation** | ![LangGraph](https://img.shields.io/badge/-LangGraph-000?style=flat) ![HuggingFace](https://img.shields.io/badge/-HF%20Transformers-FF66CC?style=flat&logo=huggingface&logoColor=white) |
+| **Other** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) |
 
-<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
+</div>
 
-<a href="mailto:dj.jarout@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
+---
 
-<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianKnuth&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianKnuth&theme=transparent" alt="GitHub Streak" />
+</p>
 
-<a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
-</br>
-</br>
+---
 
+### 🤝 Let’s connect
+- 💬 Ask me about **GenAI workflows**, **multimodal ML**, or **data-driven strategy**.
+- ✈️ When I’m not coding you’ll find me playing tennis  🎾 or hunting for the best coffee in town ☕.
 
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/code-GraphQL-informational?style=flat&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/code-JWT-informational?style=flat&logo=JSON%20web%20tokens)
-![](https://img.shields.io/badge/code-GULP-informational?style=flat&logo=gulp&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
-</br>
-
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-bitbucket-informational?style=flat&logo=bitbucket&logoColor=white)
-![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/TestingTools-cypress-informational?style=flat&logo=cypress&logoColor=058a5e)
-![](https://img.shields.io/badge/TestingTools-jest-informational?style=flat&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/testingTools-mocha-informational?style=flat&logo=mocha&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/server-nginx-informational?style=flat&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/server-jenkins-informational?style=flat&logo=jenkins&logoColor=white)
-
-
-## 📝 Latest Blog Posts
-
-- [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
-- [Data Types In Javascript](https://medium.com/@deepajarout/data-types-in-javascript-fd7cd14ad4a7)
-- [Variables In Javascript](https://medium.com/@deepajarout/variables-in-javascript-ef840522e80d)
-
-
-## 📈 GitHub Stats 
-
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/deepajarout)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout)]
-view rawREADME.txt hosted with ❤ by GitHub
+<p align="center">Thanks for stopping by! ⭐️</p>
