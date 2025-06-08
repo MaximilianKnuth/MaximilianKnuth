@@ -26,7 +26,7 @@ Technically fluent in **Python** (ML, NLP, optimization), **SQL**, **Julia/JuMP*
 
 | Project | Tech | Highlights |
 |---------|------|-----------|
-| **GenAI Nasdaq – Smart Data Engineering Agents**<br><sup><a href="https://github.com/MaximilianKnuth/GenAI_Nasdaq">🔗 Repo</a></sup> | LangGraph · OpenAI · RAG | • Enables **non-technical users** to define end-to-end data workflows via chat<br>• Scales data-product onboarding **+40 %**, unlocking **$6-8 M annual revenue** :contentReference[oaicite:0]{index=0} |
+| **GenAI Nasdaq – Smart Data Engineering Agents**<br><sup><a href="https://github.com/MaximilianKnuth/GenAI_Nasdaq">🔗 Repo</a></sup> | LangGraph · OpenAI · RAG | • Enables **non-technical users** to define end-to-end data workflows via chat<br>• Scales data-product onboarding **+40 %**, unlocking **$6-8 M annual revenue** |
 | **CuisineCraft – Dynamic Recipe Generator**<br><sup><a href="https://github.com/MaximilianKnuth/CuisineCraft">🔗 Repo</a></sup> | Transformers · FAISS · RAG | • Generates recipe suggestions based on a given set of ingredients while incorporating user preferences such as dietary constraints. (e.g., low calorie, gluten-free) |
 
 ---
