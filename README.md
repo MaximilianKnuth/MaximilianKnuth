@@ -45,12 +45,3 @@ Technically fluent in **Python** (ML, NLP, optimization), **SQL**, **Julia/JuMP*
 
 </div>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianKnuth&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaximilianKnuth&theme=transparent" alt="GitHub Streak" />
-</p>
-
----
